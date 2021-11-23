@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning a few Languages
+- 🌱 My Main Programming language is C#
 - 💬 Ask me about Anything
 - 📫 How to reach me: Discord - ```ByAlexius#4641```
 - 😄 Pronouns: He/Him
