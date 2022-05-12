@@ -1,11 +1,8 @@
-### Hi there, Here is What I'm Working On! 👋
+# Hello, I'm Alexander
 
 
-Here are some ideas to get you started:
-
-- 🌱 My Main Programming language is C#
-- 💬 Ask me about Anything
-- 📫 How to reach me: Discord - ByAlexius#5470
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm from Austria
-
+### Statistics
+<a href="https://github.com/ByAlexius">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ByAlexius&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ByAlexius&layout=compact&theme=vue-dark&hide=html" />
+</a>
