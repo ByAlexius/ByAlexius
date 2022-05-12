@@ -1,5 +1,13 @@
 # Hello, I'm Alexander
 
+# About me
+
+Backend Developer
+
+You can contact me here:
+
+Discord: ByAlexius#5470
+
 
 ### Statistics
 <a href="https://github.com/ByAlexius">
