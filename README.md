@@ -8,7 +8,7 @@ Discord: ByAlexius#5470
 
 # NortalMP Social Media
 
-<img alt="Discord" src="https://img.shields.io/discord/973220250868924436?label=NortalMP&style=for-the-badge">
+<img src="https://discordapp.com/api/guilds/973220250868924436/widget.png?style=shield" alt="Discord Shield"/>
 
 # My Statistics
   <p>
