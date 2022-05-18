@@ -5,7 +5,7 @@
 
 Discord: ByAlexius#5470
 
-https://img.shields.io/discord/973220250868924436?style=for-the-badge
+<img alt="Discord" src="https://img.shields.io/discord/973220250868924436?style=for-the-badge">
 
 
   <!-- GitHub stats -->  
