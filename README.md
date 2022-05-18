@@ -7,6 +7,8 @@ Discord: ByAlexius#5470
 
 <img alt="Discord" src="https://img.shields.io/discord/973220250868924436?style=for-the-badge">
 
+<iframe src="https://discord.com/widget?id=973220250868924436&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
   <!-- GitHub stats -->  
   <b> My Statistics</b>
