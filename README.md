@@ -7,8 +7,7 @@ Discord: ByAlexius#5470
 
 
 # NortalMP Social Media
-<a href="https://github.com/ByAlexius">
-<img src="https://discordapp.com/api/guilds/973220250868924436/widget.png?style=banner2" alt="Discord Banner 2"/>
+<img src="https://discordapp.com/api/guilds/973220250868924436/widget.png?style=banner2" alt="Discord Banner 2" href="https://discord.gg/mp8y5QZ9Xu"/>
 
 # My Statistics
   <p>
