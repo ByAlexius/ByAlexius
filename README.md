@@ -6,9 +6,9 @@
 Discord: ByAlexius#5470
 
 
-# Nortal Frameworks
-<a href="https://discord.gg/mp8y5QZ9Xu">
-<img src="https://discordapp.com/api/guilds/973220250868924436/widget.png?style=banner4" alt="Discord Banner 4"/>
+# IslandState
+<a href="https://discord.gg/5GWVVTcyUa">
+<img src="https://discordapp.com/api/guilds/980264590040506449/widget.png?style=banner4" alt="Discord Banner 4"/>
 
 # My Statistics
   <details>
