@@ -7,7 +7,7 @@ Discord: ByAlexius#5470
 
 
 # IslandState
-<a href="https://discord.gg/5GWVVTcyUa">
+<a href="https://discord.gg/">
 <img src="https://discordapp.com/api/guilds/980264590040506449/widget.png?style=banner4" alt="Discord Banner 4"/>
 
 # My Statistics
