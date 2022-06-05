@@ -1,14 +1,9 @@
 # Hello, I'm Alexander
 
-
-# You can contact me here:
-
-Discord: ByAlexius#5470
-
 ### Discord Profile
 ![Discord](https://discord.c99.nl/widget/theme-3/497286330175324160.png)
 
-# IslandState
+### IslandState
 <a href="https://discord.gg/">
 <img src="https://discordapp.com/api/guilds/980264590040506449/widget.png?style=banner4" alt="Discord Banner 4"/>
 
