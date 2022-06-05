@@ -5,10 +5,12 @@
 
 Discord: ByAlexius#5470
 
+### Discord Profile
+![Discord](https://discord.c99.nl/widget/theme-3/426081591832346624.png)
 
 # IslandState
 <a href="https://discord.gg/">
-<img src="https://discordapp.com/api/guilds/980264590040506449/widget.png?style=banner4" alt="Discord Banner 4"/>
+<img src="https://discordapp.com/api/guilds/497286330175324160/widget.png?style=banner4" alt="Discord Banner 4"/>
 
 # My Statistics
   <details>
