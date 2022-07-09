@@ -10,7 +10,6 @@ Self-taught programmer.
 
 ### Statistics
 
-[![Leon's github stats](https://github-readme-stats.vercel.app/api?username=byalexius&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byalexius&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=byalexius&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
