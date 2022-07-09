@@ -1,12 +1,16 @@
-# Hello, I'm Alexander
+### Hello, I am Alex - *ByAlexius* 👋
 
-# My Statistics
-  <details>
-  <p>
-<a href="https://github.com/ByAlexius">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ByAlexius&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" /> 
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=byalexius&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  </p>
-   </details>
+Self-taught programmer.
 
+### You can find me here
+
+[<img align="left" title="ByAlexius#0800" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](#)
+
+<br />
+
+### Statistics
+
+[![Leon's github stats](https://github-readme-stats.vercel.app/api?username=byalexius&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byalexius&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
