@@ -2,6 +2,8 @@
 
 Self-taught programmer.
 
+  <img src="https://komarev.com/ghpvc/?username=ByAlexius&color=blue&style=flat" />
+
 ### You can find me here
 
 [<img align="left" title="ByAlexius#0800" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](#)
